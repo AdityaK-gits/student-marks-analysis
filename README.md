@@ -19,3 +19,14 @@ A simple Python data analytics program that analyzes marks of students across mu
 ## How to Run
 - Clone this repository or download the code
 - Run the Python file using Jupyter Notebook or Google Colab
+# Display the dataset
+print("Student Marks Data:")
+print(df)
+
+# Output:
+#    Name  Math  Science  English
+# 0  Aditya   85       90       88
+# 1   Rohan   78       80       76
+# 2   Sneha   92       85       90
+# 3   Kiran   70       75       72
+# 4    Zoya   88       95       84
